@@ -1,0 +1,104 @@
+{
+	"/": [
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/account": [
+		"src/routes/account/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create": [
+		"src/routes/+layout.server.ts"
+	],
+	"/create/class": [
+		"src/routes/create/class/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/levels": [
+		"src/routes/create/levels/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/levels/level1": [
+		"src/routes/create/levels/level1/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/main": [
+		"src/routes/create/main/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/my_quests": [
+		"src/routes/create/my_quests/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/navigate": [
+		"src/routes/create/navigate/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/quest_storage": [
+		"src/routes/create/quest_storage/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question10": [
+		"src/routes/create/question10/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question1": [
+		"src/routes/create/question1/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question2": [
+		"src/routes/create/question2/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question3": [
+		"src/routes/create/question3/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question4": [
+		"src/routes/create/question4/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question5": [
+		"src/routes/create/question5/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question6": [
+		"src/routes/create/question6/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question7": [
+		"src/routes/create/question7/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question8": [
+		"src/routes/create/question8/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/question9": [
+		"src/routes/create/question9/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/create/submit": [
+		"src/routes/create/submit/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard": [
+		"src/routes/dashboard/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/loading/registrationsuccessful": [
+		"src/routes/+layout.server.ts"
+	],
+	"/login": [
+		"src/routes/login/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/logout": [
+		"src/routes/logout/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/register": [
+		"src/routes/register/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	]
+}

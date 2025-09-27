@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/create/my_quests/+page.svelte";

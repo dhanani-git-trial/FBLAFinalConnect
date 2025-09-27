@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/create/question4/+page.svelte";

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/create/levels/level1/+page.svelte";
